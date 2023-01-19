@@ -8,8 +8,16 @@ Com isso, precisamos criar um banco de dados para armazenar informações como: 
 Com a criação de uma Query, responderemos as perguntas a seguir:
 
 
-Rspostas
+#Respostas:
 
+Existem outras entidades além dessas três?
 Sim. As entidades vão surgindo de acordo com a necessidade do banco criado.
+
+Quais são os principais campos e tipos?
 Cursos, alunos, facilitadores, matrículas, int, varchar, timestamp.
+
+Como essas entidades estão relacionadas?
 Um para muitos, muitos para muitos.
+
+
+![image](https://user-images.githubusercontent.com/89021142/213533458-94e8b49a-9fdc-49b7-b103-2377e372f04b.png)
